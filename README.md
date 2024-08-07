@@ -1,3 +1,3 @@
 ### Hi there, I'm John Jacquay 👋
 
-🩺 Writing medical device software, cloud infrastructure, & ML tools ⚕️
+🩺 Writing bioinformatics pipelines, medical device software, cloud infrastructure, & ML tools ⚕️
