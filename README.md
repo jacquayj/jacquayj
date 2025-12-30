@@ -1,9 +1,11 @@
 ### Hi there, I'm John Jacquay 👋
 
-- 🚰 Writing bioinformatics pipelines
-- 🧠 Deep learning and generative AI workflows for drug discovery
-- ⚕️ Medical device software/firmware
-- 🧪 Scientific web applications
+- 🧠 Deep learning and generative AI pipelines for therapeutic discovery
+- 🚰 Bioinformatics pipelines: genomics and computational chemistry
+- ⚕️ Medical device software & firmware
+- 🧪 Cloud native scientific web applications
+- 💾 Data management systems
 - ☁️ Cloud infrastructure
-- 🔨 ML tools
-
+- 🤖 AI-augmented software engineering best-practices
+- 🔍 Observability systems
+- 🔨 MLOps workflows
